@@ -1,0 +1,24 @@
+{
+    "name": "@unistmm/uni-node-n8xcg",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unistmm/uni-node-n8xcg.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "unistmm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unistmm/uni-node-n8xcg/issues"
+    },
+    "homepage": "https://github.com/unistmm/uni-node-n8xcg#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@unistmm/uni-node-n8xcg": "^1.0.0"
+    }
+}
